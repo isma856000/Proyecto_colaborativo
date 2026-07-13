@@ -1,3 +1,6 @@
 # Proyecto_colaborativo
-### Equipo de desarrollo: Cesar Martinez e Ismael Hurtado
-Este repositorio es exclusivo para la práctica de comandos de la universidad.
+### Integrantes del proyecto:
+* Ismael Hurtado
+* Cesar Martinez
+
+Este repositorio es para la práctica de control de versiones de la universidad.
