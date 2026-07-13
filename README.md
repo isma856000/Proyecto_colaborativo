@@ -1,3 +1,6 @@
 # Proyecto_colaborativo
-### Integrantes: Ismael Hurtado y Cesar Martínez
-Proyecto enfocado en aprender el flujo de trabajo de Git.
+### Integrantes del proyecto:
+* Ismael Hurtado
+* Cesar Martinez
+
+Este repositorio es para la práctica de control de versiones de la universidad.
