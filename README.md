@@ -41,10 +41,10 @@ En proyectos colaborativos es indispensable porque:
 ## Parte 2 — Práctica Colaborativa: Bitácora del Flujo
 
 ### Objetivo del Proyecto Técnico
-Simular y ejecutar un flujo de trabajo colaborativo profesional empleando la interfaz de GitHub, aplicando metodologías de ramificación, registro de cambios y resolución de conflictos de código.
+Ejecutar un flujo de trabajo colaborativo profesional empleando la interfaz de GitHub, aplicando metodologías de ramificación, registro de cambios y resolución de conflictos de código.
 
 ### Flujo Seguido y Ramas Creadas
-El proyecto se estructuró a partir de la rama raíz `main`. Posteriormente, se generó la rama secundaria `desarrollo-companero` para simular las tareas aisladas de desarrollo.
+El proyecto se estructuró a partir de la rama raíz `main`. Posteriormente, se generó la rama secundaria `desarrollo-companero` 
 
 ### Commits Realizados
 * **En rama `main`:** 1. `docs: agregar lista de integrantes`
